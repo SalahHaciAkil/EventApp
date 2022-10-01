@@ -1,4 +1,4 @@
-A complete Event App built using Javascript(React.js), Node.js and Firebase
+A complete Event App built using Javascript(React.js), Node.js and Firebase. The main idea is to create an evnet and invite people to it.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

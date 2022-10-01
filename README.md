@@ -1,3 +1,5 @@
+A complete Event App built using Javascript(React.js), Node.js and Firebase. In this app you can create events and invite people
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

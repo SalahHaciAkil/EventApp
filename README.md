@@ -1,4 +1,7 @@
-A complete Event App built using Javascript(React.js), Node.js and Firebase. The main idea is to create an event and invite people to it.
+A complete Event App built using Javascript(React.js), Node.js and Firebase. The main idea os allowing users to create
+events, such as parties, meetings, or conferences, and invite other people to attend. When creating an event, the user can specify
+details such as the event title, location, date and time, and a description. They can also choose to make the event private or public,
+and set a limit on the number of attendees. people to it.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
